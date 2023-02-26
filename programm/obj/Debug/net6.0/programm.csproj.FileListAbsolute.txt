@@ -1,0 +1,15 @@
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\bin\Debug\net6.0\programm.exe
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\bin\Debug\net6.0\programm.deps.json
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\bin\Debug\net6.0\programm.runtimeconfig.json
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\bin\Debug\net6.0\programm.dll
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\bin\Debug\net6.0\programm.pdb
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\obj\Debug\net6.0\programm.csproj.AssemblyReference.cache
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\obj\Debug\net6.0\programm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\obj\Debug\net6.0\programm.AssemblyInfoInputs.cache
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\obj\Debug\net6.0\programm.AssemblyInfo.cs
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\obj\Debug\net6.0\programm.csproj.CoreCompileInputs.cache
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\obj\Debug\net6.0\programm.dll
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\obj\Debug\net6.0\refint\programm.dll
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\obj\Debug\net6.0\programm.pdb
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\obj\Debug\net6.0\programm.genruntimeconfig.cache
+D:\Programming\GeekBrains\7_Specialization select\HW_specSelect\programm\obj\Debug\net6.0\ref\programm.dll
